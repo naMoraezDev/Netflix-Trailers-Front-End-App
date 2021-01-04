@@ -36,7 +36,7 @@ O layout da aplicação é totalmente inspirado no próprio aplicativo da [Netfl
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Layout" title="Layout" src="./.github/web.png" width="100px">
+  <img alt="Layout" title="Layout" src="./.github/web.png" width="1000px">
 </p>
 
 ---
