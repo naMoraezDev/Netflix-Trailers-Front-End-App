@@ -54,10 +54,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/naMoraezDev/Listify-Front-End-App.git
+$ git clone https://github.com/naMoraezDev/Netflix-Trailers-Front-End-App.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd Listify-Front-End-App-main
+$ cd Netflix-Trailers-Front-End-App-main
 
 # Instale as dependências
 $ npm install
